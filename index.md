@@ -8,9 +8,9 @@ Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
 
 **Site:** https://www.anamaria.dev.br
 
-### GithHub Pages
+### Instagram
 
-https://anamariasilva.github.io
+instagram.com/ana.tech.dev/
 
 ### Contato
 
