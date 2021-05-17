@@ -4,7 +4,9 @@
 
 Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
 
-**Instagram:** ana.tech.dev 
+**Instagram:** @ana.tech.dev 
+
+**Site:** https://www.anamaria.dev.br
 
 ### GithHub Pages
 
