@@ -4,15 +4,17 @@
 
 Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
 
-**Site:** https://www.anamaria.dev.br
-
 ### Criadora de conteúdo no Instagram
 
-instagram.com/ana.tech.dev
+https://instagram.com/ana.tech.dev
+
+### Site
+
+https://www.anamaria.dev.br
 
 ### GitHub
 
-github.com/anamariasilva
+https://github.com/anamariasilva
 
 ### Contato
 
