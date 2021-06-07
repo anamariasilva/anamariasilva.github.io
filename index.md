@@ -1,4 +1,4 @@
-<font face="Open Sans">## GitHub Pages da Ana Maria Silva
+## GitHub Pages da Ana Maria Silva
 
 ### About me
 Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
@@ -13,4 +13,4 @@ Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
 <a href="https://github.com/anamariasilva">github.com/anamariasilva</a>
 <br>
 ### Contato
-e-mail@anamaria.dev.br</font>
+e-mail@anamaria.dev.br
