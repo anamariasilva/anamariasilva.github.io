@@ -17,4 +17,4 @@ Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
 
 
 ### Contato
-e-mail@anamaria.dev.br
+developer@anamaria.dev.br
