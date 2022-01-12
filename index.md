@@ -1,7 +1,7 @@
 ## GitHub Pages da Ana Maria Silva
 
-### About me
-Cientista da Computação, Analista de TI e Desenvolvedora Web Front-end.
+### Readme
+Cientista da Computação e Desenvolvedora Web Front-end.
 
 
 ### Criadora de conteúdo no Instagram
