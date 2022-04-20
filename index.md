@@ -16,5 +16,5 @@ Cientista da Computação e Desenvolvedora Web Front-end.
 <a href="https://github.com/anamariasilva">github.com/anamariasilva</a>
 
 
-### Contato
-<a href="mailto:email@anamaria.dev.br">email@anamaria.dev.br</a>
+### Repositório para Mulheres na Tecnologia
+[github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia) </a>
