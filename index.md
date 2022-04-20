@@ -4,17 +4,17 @@
 Cientista da Computação e Desenvolvedora Web Front-end.
 
 
-### Criadora de conteúdo no Instagram
-<a href="https://instagram.com/ana.tech.dev">instagram.com/ana.tech.dev</a>
+### Criadora de conteúdo no Instagram 
+[instagram.com/ana.tech.dev](https://instagram.com/ana.tech.dev) <br>
 
-
-### Site
-<a href="https://www.anamaria.dev.br">www.anamaria.dev.br</a>
-
+### Contatos
+[www.anamaria.dev.br](https://www.anamaria.dev.br) <br>
 
 ### GitHub
-<a href="https://github.com/anamariasilva">github.com/anamariasilva</a>
+[github.com/anamariasilva](https://github.com/anamariasilva) <br>
 
+### Repositório para Frontenders
+[github.com/anamariasilva/front-end](https://github.com/anamariasilva/front-end) <br>
 
 ### Repositório para Mulheres na Tecnologia
-[github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia) </a>
+[github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
